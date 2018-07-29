@@ -1,4 +1,6 @@
 # Vamp (not finished)
+[![License | Unlicense](https://img.shields.io/badge/license-unlicense-blue.svg)](https://github.com/Lydzje/vamp/blob/master/LICENSE)
+
 Vamp, my first "serious" game which I didn't finish. Click [here](https://github.com/Lydzje/vamp/raw/master/bin/vampV6.jar) to download an executable jar.
 
 In my Linux system I had to install OpenJFX in order to make it run:
